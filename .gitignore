@@ -1,0 +1,25 @@
+﻿venv/
+venv312/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+mlruns/
+*_backup/
+*.bak
+.env
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dataset files - download separately
+data/raw/
+data/processed/*.csv
+data/processed/features/*.npz
+data/processed/features/*.npy
+data/processed/features_backup/
+
+# Large tuned model
+models/tuned_extra_trees.joblib

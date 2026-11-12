@@ -1,0 +1,14 @@
+﻿numpy
+scipy
+pandas
+scikit-learn
+nltk
+gensim
+joblib
+textstat
+vaderSentiment
+matplotlib
+seaborn
+streamlit
+mlflow
+pytest
