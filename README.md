@@ -218,7 +218,7 @@ MLflow is used to record:
 
 ## 👩‍💻 Author
 
-**Nazneen Fatema Asad Baig**
+**NazneenFatema Asad Baig**
 
 - GitHub: [Naaz1365](https://github.com/Naaz1365)
 - LinkedIn: [Nazneen Fatema Baig](https://www.linkedin.com/in/nazneenfatema-baig-2062a9380/)
